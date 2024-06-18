@@ -24,7 +24,7 @@ After registering, go to the dashboard and navigate to the "Currency Key" sectio
 
 Please note that your API key allows for up to 5000 monthly requests. This limit is automatically renewed each month. It's important to manage your usage to ensure continuous access to the API.
 
-### Code Example
+### PHP Code Examples
 
 To fetch the latest rates using cURL and authenticate with your API key, use the following command:
 
