@@ -26,7 +26,7 @@ Please note that your API key allows for up to 5000 monthly requests. This limit
 
 ### PHP Code Examples
 
-To fetch the latest rates using cURL and authenticate with your API key, use the following command:
+To fetch the latest rates using PHP and authenticate with your API key, use the following command:
 
 ```sh
 $url = 'https://westinpay.com/currency/fiat_api?api_key=YOUR-API-KEY&base=USD&output=JSON';
